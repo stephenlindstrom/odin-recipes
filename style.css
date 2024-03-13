@@ -5,7 +5,19 @@ h1 {
     text-align: center;
 }
 
-li {
+.recipe-title {
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+h2 {
+    background-color: red;
+}
+
+div {
+    color: white;
+    background-color: black;
+}
+
+
+
